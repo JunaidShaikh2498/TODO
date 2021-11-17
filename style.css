@@ -39,6 +39,10 @@ a:link{
     color:rgb(245, 88, 49);
     text-decoration: none;
 }
+a:visited{
+    color:rgb(245, 88, 49);
+    text-decoration: none;
+}
 .strike{
     margin-left: 13px;
     text-decoration: line-through red ;
